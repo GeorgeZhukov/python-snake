@@ -1,5 +1,5 @@
-# python-snake
-Simple terminal snake game written on python.
+# Python-Snake Game
+Simple terminal Snake Game written using Python.
 
 ##### Also C++ version available
 https://github.com/GeorgeZhukov/cpp-snake
