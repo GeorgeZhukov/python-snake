@@ -2,7 +2,7 @@
 Simple terminal snake game written on python.
 
 ##### Also C++ version available
-https://github.com/GeorgeZhukov/cpp-snake
+~https://github.com/GeorgeZhukov/cpp-snake~
 
 ## Dependencies
 * curses
